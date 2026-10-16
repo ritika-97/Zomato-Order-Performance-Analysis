@@ -247,6 +247,10 @@ Zomato-Order-Performance-Analysis/
 └── data/
     └── [add data only after confirming its sharing rights]
 ```
+## Project Files
+
+- [SQL Analysis Script](sql/zomato_analysis_sql.sql)
+- [Power BI Report](powerbi/zomato-order-analysis-report.pbix)
 
 ## Tools Used
 
