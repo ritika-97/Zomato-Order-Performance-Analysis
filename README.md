@@ -72,8 +72,6 @@ The model uses the restaurant identifier (`res_id`) to connect order activity to
 
 ![Power BI data model](screenshots/data-model.png)
 
-> Add the final data-model screenshot at `screenshots/data-model.png` before publishing, or update the image path to match your screenshot filename.
-
 ## Analytical Approach
 
 The analysis was conducted using SQL for data exploration, validation, aggregation, and hypothesis testing, followed by Power BI modelling and dashboard development.
@@ -108,8 +106,6 @@ Year and quarter slicers are synced across pages. A collapsible filter drawer pr
 ![Market & City Performance](screenshots/market-city-performance.png)
 
 ![Restaurant & Cuisine Performance](screenshots/restaurant-cuisine-performance.png)
-
-> Add the three final dashboard screenshots in the `screenshots` folder using these filenames, or update the links above.
 
 ## Key Findings
 
