@@ -251,6 +251,10 @@ Zomato-Order-Performance-Analysis/
 - [SQL Analysis Script](sql/zomato_analysis_sql.sql)
 - [Power BI Report](powerbi/zomato-order-analysis-report.pbix)
 
+The Power BI report is provided as a `.pbix` file.
+Download it and open it using Power BI Desktop to explore
+the report interactively.
+
 ## Tools Used
 
 - **MySQL Workbench** — querying, aggregation, validation, and analysis.
