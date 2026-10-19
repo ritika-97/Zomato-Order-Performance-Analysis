@@ -232,16 +232,14 @@ Additional cancellation-reason, order-stage, revenue, delivery-cost, discount, c
 Zomato-Order-Performance-Analysis/
 ├── README.md
 ├── sql/
-│   └── [add your saved SQL script here]
+│   └── zomato_analysis_sql_cleaned.sql
 ├── powerbi/
-│   └── [add your Power BI .pbix file here]
-├── screenshots/
-│   ├── data-model.png
-│   ├── executive-overview.png
-│   ├── market-city-performance.png
-│   └── restaurant-cuisine-performance.png
-└── data/
-    └── [add data only after confirming its sharing rights]
+│   └── Zomato_Order_Performance.pbix
+└── screenshots/
+    ├── data-model.png
+    ├── executive-overview.png
+    ├── market-city-performance.png
+    └── restaurant-cuisine-performance.png
 ```
 ## Project Files
 
