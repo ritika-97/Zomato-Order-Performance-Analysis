@@ -35,6 +35,11 @@ The analysis uses `zomato_data.xlsx`, an order-level dataset with order, restaur
 
 **Data grain:** The final Orders table contains one row per unique `Order ID`. The Restaurants table contains one row per unique `res_id`.
 
+**Dataset Source:** [Zomato Dataset — Kaggle](https://www.kaggle.com/datasets/nairahul/zometo-dataset)
+
+**Dataset License:** CC0: Public Domain (as listed on Kaggle).
+The dataset was cleaned and transformed for this portfolio project.
+
 ### Data Quality & Preparation
 
 The dataset was reviewed for duplicates, missing values, invalid values, and fields requiring transformation before analysis.
